@@ -1,0 +1,31 @@
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\ProductionPlanning.exe.config
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\ProductionPlanning.exe
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\ProductionPlanning.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\CRDisplay.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\cstLng.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Newtonsoft.Json.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\stdole.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Newtonsoft.Json.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Sap.Data.Hana.v4.5.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\bin\Debug\System.Net.Http.Formatting.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.csproj.AssemblyReference.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.csproj.ResolveComReference.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.Form1.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.csproj.GenerateResource.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.csproj.CoreCompileInputs.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.csproj.CopyComplete
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.exe
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\ProductionPlanning_WithBranch\x64\obj\x86\Debug\ProductionPlanning.pdb

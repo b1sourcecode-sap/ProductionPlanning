@@ -1,0 +1,30 @@
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\ProductionPlanning.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\ProductionPlanning.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\ProductionPlanning.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\CRDisplay.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\cstLng.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\Newtonsoft.Json.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\Sap.Data.Hana.v4.5.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\System.Net.Http.Formatting.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\stdole.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\Newtonsoft.Json.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\Sap.Data.Hana.v4.5.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\bin\Debug\System.Net.Http.Formatting.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.csproj.ResolveComReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.Form1.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.csproj.GenerateResource.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.csproj.CoreCompileInputs.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.csproj.CopyComplete
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\ProductionPlanning\x64\obj\x64\Debug\ProductionPlanning.csproj.AssemblyReference.cache
